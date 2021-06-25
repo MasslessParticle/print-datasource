@@ -20,5 +20,6 @@ go build
 ```
 export PLUGIN_ADDR=127.0.0.1:<port>
 ```
-3. `./client`
+3. `./client your-message`
 
+Message will be printed to the plugin's stdout 
